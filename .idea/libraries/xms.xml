@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/xms.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
